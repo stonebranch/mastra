@@ -1,4 +1,4 @@
-# @mastra/pg
+# @mastra/libsql
 
 SQLite implementation for Mastra, providing both vector similarity search and general storage capabilities with connection pooling and transaction support.
 
